@@ -1,5 +1,8 @@
 # SmartThings "Wasp in a Box"
 
+> **Legacy note:** This is an older SmartThings/Hubitat-era integration. It remains public for people maintaining classic Groovy SmartApps and device handlers, but it is not actively maintained for the current SmartThings platform.
+
+
 A common request for SmartThings is the ability to create context-aware occupancy sensors.  SmartThings does not have this capability currently, but it can be added with some basic tools. 
 
 The first thing you need to create a context-aware occupancy sensor is a "Simulated Presence Sensor" in the SmartThings IDE. Once you've created this device, you'll need this SmartApp in order to manage it automatically. 
